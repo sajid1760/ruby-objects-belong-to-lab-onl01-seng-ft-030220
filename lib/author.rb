@@ -1,7 +1,11 @@
-#class Author 
+class Author 
   
- # attr_accessor :name, :post
+ attr_accessor :name, :post
   
-#  def initialize
+def initialize
+  
+end
+
+end
     
   
